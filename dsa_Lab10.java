@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 
-
 public class dsa_Lab10 {
     private static ArrayList<String> diaryLogs = new ArrayList<>();
     private static JFrame chatFrame;
@@ -117,4 +116,5 @@ public class dsa_Lab10 {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
+
 }
